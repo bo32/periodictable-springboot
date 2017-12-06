@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-import org.hibernate.Hibernate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -20,8 +19,6 @@ public class ElementService {
 	public List<Element> findAll() {
 		List<Element> result = new ArrayList<Element>();
 		elementRepository.findAllByOrderByIdAsc().forEach(e -> {
-//			Hibernate.initialize(e.getGroup());
-//			Hibernate.initialize(e.getPeriod());
 			result.add(e);
 		});
 		return result;

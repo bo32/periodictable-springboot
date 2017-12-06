@@ -16,11 +16,6 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 @Entity
 @Table(name="state")
 public class State {
-		
-//	public static final String GAS = "Gas";
-//	public static final String LIQUID = "Liquid";
-//	public static final String SOLID = "Solid";
-//	public static final String SYNTHETIC = "Synthetic";
 	
 	@Id
 	@Column(name="stateid")
