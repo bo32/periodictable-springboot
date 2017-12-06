@@ -1,0 +1,18 @@
+insert into element (atomic_number, name, symbol, groupid, periodid) values (1, 'Hydrogen', 'H', 1, 1);
+insert into element values (2, 'alkaline earth metals', 'beryllium family');
+insert into element values (3, '', 'scandium family');
+insert into element values (4, '', 'titanium family');
+insert into element values (5, '', 'vanadium family');
+insert into element values (6, '', 'chromium family');
+insert into element values (7, '', 'manganese family');
+insert into element values (8, '', 'iron family');
+insert into element values (9, '', 'cobalt family');
+insert into element values (10, '', 'nickel family');
+insert into element values (11, 'coinage metals', 'copper family');
+insert into element values (12, 'volatile metals', 'zinc family');
+insert into element values (13, 'triels, icosagens', 'boron family');
+insert into element values (14, 'tetrels, crystallogens', 'carbon family');
+insert into element values (15, 'pentels, pnictogens', 'nitrogen family');
+insert into element values (16, 'chalcogens', 'oxygen family');
+insert into element values (17, 'halogens', 'fluorine family');
+insert into element values (18, 'noble gases, aerogens', 'helium family or neon family');

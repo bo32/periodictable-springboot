@@ -1,0 +1,18 @@
+insert into tablegroup values (1, 'alkali metals', 'lithium family');
+insert into tablegroup values (2, 'alkaline earth metals', 'beryllium family');
+insert into tablegroup values (3, '', 'scandium family');
+insert into tablegroup values (4, '', 'titanium family');
+insert into tablegroup values (5, '', 'vanadium family');
+insert into tablegroup values (6, '', 'chromium family');
+insert into tablegroup values (7, '', 'manganese family');
+insert into tablegroup values (8, '', 'iron family');
+insert into tablegroup values (9, '', 'cobalt family');
+insert into tablegroup values (10, '', 'nickel family');
+insert into tablegroup values (11, 'coinage metals', 'copper family');
+insert into tablegroup values (12, 'volatile metals', 'zinc family');
+insert into tablegroup values (13, 'triels, icosagens', 'boron family');
+insert into tablegroup values (14, 'tetrels, crystallogens', 'carbon family');
+insert into tablegroup values (15, 'pentels, pnictogens', 'nitrogen family');
+insert into tablegroup values (16, 'chalcogens', 'oxygen family');
+insert into tablegroup values (17, 'halogens', 'fluorine family');
+insert into tablegroup values (18, 'noble gases, aerogens', 'helium family or neon family');
